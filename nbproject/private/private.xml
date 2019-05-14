@@ -3,19 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/modelos/ContactoFacadeLocal.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/web/footer.jsp</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/web/contactanos.jsp</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/modelos/UsuariosFacade.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/modelos/AbstractFacade.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/controller/SessionBeanServlet.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/modelos/UsuariosFacadeLocal.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/modelos/ContactoFacade.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/web/head.jsp</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/controller/UsuarioControlador.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/entidades/Usuarios.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/src/java/entidades/Contacto.java</file>
-            <file>file:/E:/JAVA/Des.%20Web%202019/Disketo/web/login.jsp</file>
+            <file>file:/D:/ProyectosDuoc/Disketo/web/js/funciones.js</file>
+            <file>file:/D:/ProyectosDuoc/Disketo/web/js/validaFormularioContacto.js</file>
+            <file>file:/D:/ProyectosDuoc/Disketo/web/contactanos.jsp</file>
         </group>
     </open-files>
 </project-private>

@@ -40,9 +40,9 @@
                             </div>
 
                             <div class="form-group">
-                                <label class="col-sm-4 control-label" for="fono">Nímero de telífono</label>
+                                <label class="col-sm-4 control-label" for="fono">Número de teléfono</label>
                                 <div class="col-sm-5">
-                                    <input type="text" class="form-control" id="fono" name="fono" placeholder="Ingrese su telÃ©fono" />
+                                    <input type="text" class="form-control" id="fono" name="fono" placeholder="Ingrese su teléfono" />
                                 </div>
                             </div>
 
